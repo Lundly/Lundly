@@ -1,5 +1,5 @@
 <div align="center">
-    <div><img src="./src/【像素方舟】龙泡泡大行军.gif" alt="headGIF" width="280" style="margin-bottom: 20;" /></div>
+    <div><img src="./src/龙泡泡.gif" alt="headGIF" width="280" style="margin-bottom: 20;" /></div>
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&letterSpacing=2px&pause=4000&color=6ACFC0&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Lundly!" alt="Typing SVG" />
     <p style="font-weight: 600; color: #646f50;">I am a college student form <code>China</code>, trying to be stronger💪</p>
     <div>
